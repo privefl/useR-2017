@@ -182,6 +182,6 @@ Package's website: https://privefl.github.io/bigstatsr/
 
 Twitter and GitHub: [@privefl](https://twitter.com/privefl)
 
-Presentation available online: https://goo.gl/nNg0hw
+Presentation available online: https://goo.gl/cv7L5s
 
 .footnote[Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).]
