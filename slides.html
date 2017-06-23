@@ -172,7 +172,8 @@ Presentation available online: https://goo.gl/cv7L5s
 "highlightLines": true,
 "countIncrementalSlides": true
 });
-if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {window.dispatchEvent(new Event('resize'));});</script>
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {window.dispatchEvent(new Event('resize'));});
+setInterval(function() {slideshow.gotoNextSlide();}, 20000);</script>
 
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
