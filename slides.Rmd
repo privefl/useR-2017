@@ -10,7 +10,7 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: true
-      autoplay: 20000
+      # autoplay: 20000
 ---
 
 ```{r setup, include=FALSE}
@@ -72,7 +72,7 @@ knitr::include_graphics("http://i.ebayimg.com/images/i/200955927319-0-1/s-l1000.
 
 ## Split-(par)Apply-Combine Strategy
 
-### Apply standard R functions to big matrices (in parallel): `big_apply`
+### Apply standard R functions to big matrices (in parallel)
 
 ```{r, out.width='100%'}
 knitr::include_graphics("split-apply-combine.svg")
